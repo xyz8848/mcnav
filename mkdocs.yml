@@ -1,0 +1,30 @@
+site_name: 我的世界网址导航
+site_url: http://mcnav.xyz8848.com/
+repo_url: https://github.com/xyz8848/mcnav
+repo_name: xyz8848/mcnav
+copyright: Copyright &copy; 2020-2023 | By <a href="http://xyz8848.com">xyz8848</a>
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt
+  language: zh
+  features:
+#     - navigation.tabs
+
+# nav:
+#   - index.md
+
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+#   - git-committers:
+#       repository: xyz8848/mcnav
+#       token: !ENV GH_TOKEN
+#   - git-authors
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/xyz8848
