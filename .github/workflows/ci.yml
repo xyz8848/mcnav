@@ -20,9 +20,6 @@ jobs:
       - name: Setup mkdocs-material
         run: pip install mkdocs-material
 
-      - name: Setup mkdocs plugins
-        run: pip install mkdocs-git-revision-date-localized-plugin
-
       - name: Build site
         run: mkdocs build
 
