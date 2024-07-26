@@ -15,15 +15,6 @@ theme:
 # nav:
 #   - index.md
 
-
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
-#   - git-committers:
-#       repository: xyz8848/mcnav
-#       token: !ENV GH_TOKEN
-#   - git-authors
-
 extra:
   social:
     - icon: fontawesome/brands/github
