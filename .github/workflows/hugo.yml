@@ -22,11 +22,7 @@ jobs:
           extended: false
 
       - name: Build Site
-        run: |
-          pwd
-          ls
-          cp -R exampleSite/* .
-          hugo build --baseURL https://mcnav.xyz8848.com/
+        run: hugo build --baseURL https://mcnav.xyz8848.com/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
