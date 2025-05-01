@@ -1,0 +1,195 @@
+---
+- taxonomy: 官方网站
+  icon: fa-star
+  links:
+    - title: Minecraft 官网
+      logo: assets/images/logos/minecraft.png
+      url: https://www.minecraft.net/
+      description: Minecraft 官方网站
+    - title: Minecraft 官方反馈网站
+      logo: assets/images/logos/minecraft.png
+      url: https://feedback.minecraft.net/
+      description: Minecraft 官方反馈网站
+    - title: Mojang 问题跟踪器
+      logo: assets/images/logos/mojang.png
+      url: https://bugs.mojang.com/
+      description: Mojang 官方问题跟踪器
+    - title: Minecraft 中国版官网
+      logo: assets/images/logos/minecraft-163.png
+      url: https://mc.163.com/
+    - title: Minecraft 中国版官方论坛
+      logo: assets/images/logos/minecraft-163.png
+      url: https://mc.netease.com/
+
+- taxonomy: 百科
+  links:
+    - title: Minecraft Wiki
+      logo: assets/images/logos/minecraft-wiki.png
+      url: https://minecraft.wiki/
+      description: Minecraft Wiki
+    - title: Minecraft Wiki (Fandom)
+      logo: assets/images/logos/minecraft-wiki.png
+      url: https://minecraft.fandom.com/wiki/Minecraft_Wiki
+      description: Minecraft Wiki（托管于Fandom）
+    - title: Minecraft Wiki (Bilibili)
+      logo: assets/images/logos/minecraft-wiki.png
+      url: https://wiki.biligame.com/mc/Minecraft_Wiki
+      description: Minecraft Wiki（托管于B站）
+    - title: MC百科
+      logo: assets/images/logos/mcmod-cn.png
+      url: https://www.mcmod.cn/
+      description: 最大的MC中文MOD百科
+    - title: Minecraft 插件百科
+      logo: assets/images/logos/mineplugin.png
+      url: https://mineplugin.org/
+      description: 我的世界插件百科
+
+- taxonomy: 启动器
+  links:
+    - title: 官方启动器
+      logo: assets/images/logos/minecraft.png
+      url: https://www.minecraft.net/download
+      description: 由Minecraft官方提供的启动器
+    - title: HMCL
+      logo: assets/images/logos/hmcl.png
+      url: https://hmcl.huangyuhui.net/
+      description: Hello Minecraft! Launcher 是一款开源的 Minecraft 启动器
+    - title: PCL
+      logo: assets/images/logos/pcl.webp
+      url: https://afdian.com/p/0164034c016c11ebafcb52540025c377
+      description: Plain Craft Launcher 是由 @龙腾猫跃 开发的一款 Minecraft 启动器
+    - title: PCL 社区版
+      logo: assets/images/logos/pcl-ce.webp
+      url: https://github.com/PCL-Community/PCL2-CE/releases
+      description: PCL 社区版是 PCL 的一个分支，由社区维护
+    - title: ATLauncher
+      logo: assets/images/logos/atlauncher.png
+      url: https://atlauncher.com
+      description: 一键安装整合包，一键开服
+    - title: MultiMC
+      logo: assets/images/logos/multimc.webp
+      url: https://multimc.org/
+      description: MultiMC 是 Minecraft 的替代启动器。它允许您拥有多个干净分离的 Minecraft 实例
+    - title: BakaXL
+      logo: assets/images/logos/bakaxl.png
+      url: https://www.bakaxl.com/
+      description:
+
+- taxonomy: 模组加载器
+  links:
+    - title: Fabric
+      logo: assets/images/logos/fabric.png
+      url: https://fabricmc.net/
+      description: Fabric 是一个用于 Minecraft 的 Minecraft Mod 加载器
+    - title: NeoForge
+      logo: assets/images/logos/neoforge.png
+      url: https://neoforged.net/
+      description: NeoForge 是 Forge 的一个分支
+    - title: Forge
+      logo: assets/images/logos/forge.png
+      url: https://files.minecraftforge.net/
+      description: Forge 是一个用于 Minecraft 的 Mod 加载器
+    - title: LiteLoader
+      logo: assets/images/logos/liteloader.png
+      url: http://www.liteloader.com/
+      description: LiteLoader 是一个用于 Minecraft 的 Mod 加载器
+    - title: Quilt
+      logo: assets/images/logos/quilt.png
+      url: https://quiltmc.org/
+      description: Quilt 是 Minecraft 的 Mod 加载器
+
+- taxonomy: 资源站
+  links:
+    - title: CurseForge
+      logo: assets/images/logos/curseforge.png
+      url: https://www.curseforge.com/minecraft
+      description: CurseForge 是一个 Minecraft 资源站（包括：资源包、模组、整合包、光影、数据包、插件、行为包）
+    - title: Modrinth
+      logo: assets/images/logos/modrinth.png
+      url: https://modrinth.com/
+      description: Modrinth 是一个 Minecraft 资源站（包括：资源包、模组、整合包、光影、数据包、插件）
+    - title: Planet
+      logo: assets/images/logos/planet.png
+      url: https://www.planetminecraft.com/
+      description: Planet 是一个 Minecraft Mod 资源站（包括：地图、皮肤、模组、数据包、插件、服务器）
+    - title: Minecraft Maps
+      logo: assets/images/logos/minecraftmaps.png
+      url: https://www.minecraftmaps.com/
+      description: Minecraft Maps 是一个 Minecraft 地图资源站
+    - title: SpigotMC
+      logo: assets/images/logos/spigotmc.png
+      url: https://www.spigotmc.org/
+      description: SpigotMC 是一个 Minecraft 插件资源站
+    - title: MCPEDL
+      logo: assets/images/logos/mcpedl.png
+      url: https://www.mcpedl.com/
+      description: MCPEDL 是一个 Minecraft 基岩版资源站
+
+- taxonomy: 工具
+  links:
+    - title: Minecraft Tools
+      logo: assets/images/logos/minecraft-tools.png
+      url: https://minecraft.tools/
+      description: Minecraft Tools 是一个 Minecraft 工具站
+    - title: LittleSkin
+      logo: assets/images/logos/littleskin.png
+      url: https://littleskin.cn/
+      description: LittleSkin 是一个 Minecraft 皮肤站
+    - title: 旗帜编辑器
+      logo: assets/images/logos/needcoolshoes.png
+      url: https://needcoolershoes.com/banner
+      description: 在线编辑旗帜
+    - title: Minecraft Heads
+      logo: assets/images/logos/minecraft-heads.png
+      url: https://www.minecraft-heads.com/
+      description: 用于装饰的头颅
+    - title: NameMC
+      logo: assets/images/logos/namemc.png
+      url: https://namemc.com/
+      description: NameMC 是一个皮肤查看器，可以下载别人的皮肤
+    - title: Plancke
+      logo: assets/images/logos/plancke.png
+      url: https://plancke.io/hypixel/player/stats/
+      description: Plancke 是一个 Hypixel 玩家统计站
+    - title: PSA method calculator
+      logo: assets/images/logos/jscalc.io.ico
+      url: https://jscalc.io/embed/vqOrqXRpMgmwb8tV
+      description: 鼠标速度计算器
+    - title: Universal Minecraft Editor
+      logo: assets/images/logos/informer.webp
+      url: https://universal-minecraft-editor.software.informer.com/
+      description: 一个 Minecraft 编辑器
+    - title: MapartCraft
+      logo: assets/images/logos/rebane2001.com.webp
+      url: https://rebane2001.com/mapartcraft/zh-Hans
+      description: 地图画生成器
+    - title: ChunkBase
+      logo: assets/images/logos/chunkbase.webp
+      url: https://chunkbase.com/
+      description: 在线区块查看器
+
+- taxonomy: 服务器
+  links:
+    - title: Minecraft Servers
+      logo: assets/images/logos/minecraftservers.org.png
+      url: https://minecraftservers.org/
+      description: Minecraft Servers 是一个 Minecraft 服务器列表
+    - title: Minecraft MP
+      logo: assets/images/logos/minecraft-mp.com.png
+      url: https://minecraft-mp.com/
+      description: Minecraft MP 是一个 Minecraft 服务器列表
+    - title: 找服玩
+      logo: assets/images/logos/mcmod-cn.png
+      url: https://play.mcmod.cn/
+      description: 找服玩是一个由MC百科整合的 Minecraft 服务器列表
+
+- taxonomy: 其它
+  links:
+    - title: Optifine
+      logo: assets/images/logos/optifine.webp
+      url: https://optifine.net/
+      description: Optifine 是一个 Minecraft 的优化模组
+    - title: Mod Coder Pack
+      logo: assets/images/logos/no-icon.webp
+      url: https://www.modcoderpack.com/
+      description: 简称：MCP

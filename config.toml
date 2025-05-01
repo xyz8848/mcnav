@@ -1,0 +1,14 @@
+baseURL = "http://mcnav.xyz8848.com/"
+languageCode = "zh-Hans"
+title = "我的世界网站导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  description = "我的世界网站导航"
+[params.search]
+  enable = false
+[params.darkmode]
+  enable = false
